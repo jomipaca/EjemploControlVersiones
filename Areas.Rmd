@@ -8,8 +8,16 @@ date: "2024-10-14"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# Area circulo
+
 ```{r}
 r <- 0.5
-Area <- pi*r^2
+Area_circulo <- pi*r^2
 ```
 
+# Area cuadrado
+
+```{r}
+lado <- 3
+Area_cuadrado <- lado^2
+```
