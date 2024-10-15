@@ -28,3 +28,11 @@ Area_cuadrado <- lado^2
 base <- 3
 altura <-3
 Area_cuadrado <- base*altura/2
+```
+
+# Area rectángulo
+
+```{r}
+base <- 3
+altura <-3
+Area_cuadrado <- base*altura
