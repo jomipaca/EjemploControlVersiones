@@ -21,3 +21,10 @@ Area_circulo <- pi*r^2
 lado <- 3
 Area_cuadrado <- lado^2
 ```
+
+# Area triángulo
+
+```{r}
+base <- 3
+altura <-3
+Area_cuadrado <- base*altura/2
