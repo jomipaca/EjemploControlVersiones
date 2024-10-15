@@ -36,3 +36,14 @@ Area_cuadrado <- base*altura/2
 base <- 3
 altura <-3
 Area_cuadrado <- base*altura
+```
+
+# Area trapecio
+
+```{r}
+b <- 3
+B <- 3
+H <- 3
+Area_trapecio <- (b+B)*H/2
+```
+
