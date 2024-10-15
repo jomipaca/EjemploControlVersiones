@@ -3,5 +3,9 @@ PerimCuadrado <- function(L){
 }
 
 circum <- function(R){
-  return(2*pi*R)
+  return(2*3.14159*R)
+}
+
+PerimRectang <- function(B,A){
+  return(2*A+2*B)
 }
