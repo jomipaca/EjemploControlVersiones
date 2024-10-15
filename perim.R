@@ -7,5 +7,5 @@ circum <- function(R){
 }
 
 PerimRectang <- function(B,A){
-  return(2*A+2*B)
+  return((A+B)*2)
 }
